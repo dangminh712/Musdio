@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "475042913625",
+    "firebase_url": "https://musdio-6ec90-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "musdio-6ec90",
+    "storage_bucket": "musdio-6ec90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475042913625:android:36fc9224fdefe3f1660048",
+        "android_client_info": {
+          "package_name": "musdio.Group05"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475042913625-4dgeqnu7kra9ego44qk687qpg8b90fdh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "musdio.Group05",
+            "certificate_hash": "cf26a14f995598746d938ef8b712c12bb9308fd0"
+          }
+        },
+        {
+          "client_id": "475042913625-ocp4bdu57c2r9gqbjcfo0k4svt45s1b8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd8VU8l3LnKOymoLzQbfd6-he04H016VU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475042913625-ade0r58rup5nvdct9pmfgsegfn2rgmpr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
